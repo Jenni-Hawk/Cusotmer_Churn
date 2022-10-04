@@ -1,4 +1,4 @@
-# Customer Churn
+# Customer_Churn
 Classification modeling project to predict churn
 
 # Client / Background
@@ -14,3 +14,30 @@ Classification modeling project to predict churn
 - 7032 Observations (rows)
 - 30 Features (columns)
 - [Kaggle dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
+
+# Solution Path
+#### EDA + Benchmark
+- Used Logistic Regression to explore the data and create a benchmark model
+- Evalute key metrics
+- Address class imbalance
+
+#### Test More Models
+- Decision Trees, Random Forest and XGBoost
+- Tune hyperparameters
+
+#### Determine Winner
+- Best performing model
+- Most important features
+
+#### Identify Further Optimizations
+- Identify further tuning opportunities
+- Explore other ideas
+
+# Findings
+Check out the presentation
+
+# Tech Tools Used
+- Pandas
+- Sklearn
+- Imblearn
+- Numpy
