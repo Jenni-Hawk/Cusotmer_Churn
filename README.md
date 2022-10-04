@@ -34,7 +34,7 @@ Classification modeling project to predict churn
 - Explore other ideas
 
 # Findings
-Check out the presentation
+Check out the [presentation](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/CustomerChurn_Presentation.pdf)
 
 # Tech Tools Used
 - Pandas
