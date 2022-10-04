@@ -1,4 +1,4 @@
-# Customer_Churn
+# Customer Churn
 Classification modeling project to predict churn
 
 # Client / Background
