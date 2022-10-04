@@ -20,6 +20,7 @@ Classification modeling project to predict churn
 - Used Logistic Regression to explore the data and create a benchmark model
 - Evalute key metrics
 - Address class imbalance
+- Code [here](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_ClassImbalanceWork.ipynb)
 
 #### Test More Models
 - Decision Trees, Random Forest and XGBoost
