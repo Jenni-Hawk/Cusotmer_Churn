@@ -18,10 +18,10 @@ Classification modeling project to predict churn
 # Solution Path
 #### EDA + Benchmark
 - [Used Logistic Regression to explore the data and create a benchmark model](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_ClassImbalanceWork.ipynb)
-- Evalute key metrics
+- Evaluted key metrics
 - [Address class imbalance](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_ClassImbalance.ipynb)
 
-#### Test More Models
+#### Tested More Models
 - [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_LogReg.ipynb)
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
 
