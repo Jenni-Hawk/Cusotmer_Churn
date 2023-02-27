@@ -23,6 +23,8 @@ Classification modeling project to predict churn
 
 #### Tested More Models
 - [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_LogReg.ipynb)
+
+#### Tuned Hyperparamters
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
 
 #### Determine Winner
@@ -31,7 +33,6 @@ Classification modeling project to predict churn
 
 #### Identify Further Optimizations
 - Identify further tuning opportunities
-- Explore other ideas
 
 # Findings
 Check out the [presentation](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/CustomerChurn_Presentation.pdf)
