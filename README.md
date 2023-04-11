@@ -16,7 +16,7 @@ Classification modeling project to predict churn
 - [Kaggle dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 
 # Solution Path
-#### EDA + Benchmark
+#### Clean, Expore + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
 - [Used Logistic Regression to explore the data and create benchmarks](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
 1. Created a model without oversampling
