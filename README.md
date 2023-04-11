@@ -18,7 +18,7 @@ Classification modeling project to predict churn
 # Solution Path
 #### EDA + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
-- [Used Logistic Regression to explore the data and create a benchmark model](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
+- [Used Logistic Regression to explore the data and create benchmarks](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
 1. Created a model without oversampling
 2. Created model with oversampling
     - Class imbalance just on edge of potentially being problematic. Negative class represents 72% of the data. Typically problematic at 80%
