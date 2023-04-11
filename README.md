@@ -29,7 +29,8 @@ Classification modeling project to predict churn
     - With oversampling more customers were being correctly identified as churnin
 
 #### Tested More Models
-- [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_LogReg.ipynb)
+Explored tree based models to determine how they would perform with a focus on recall
+- [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_XGBoost.ipynb)
 
 #### Tuned Hyperparamters
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
