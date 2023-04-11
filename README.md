@@ -19,9 +19,14 @@ Classification modeling project to predict churn
 #### EDA + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
 - [Used Logistic Regression to explore the data and create a benchmark model](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
-- [Address class imbalance](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_ClassImbalance.ipynb)
-  - The class imbalance for this project was just on the edge of potentially being problematic. Problems typically show up when a single class represents 80% or more of data. In this case, one class represented 72% of the data. 
-  -  I made the decision to address the class imbalance to gain experience in thinking through the workflow and utilizing imblearn. 
+1. Created a model without oversampling
+2. Created model with oversampling
+    - Class imbalance just on edge of potentially being problematic. Negative class represents 72% of the data. Typically problematic at 80%
+    - Addressed Class Imbalance with Oversampling to gain experience with the process.
+3. Compared the Key Metrics for each model: ROC AUC, Recall
+4. Reviwed Confusion matrix for each model. 
+    - With oversampling recall score greatly improved 
+    - With oversampling more customers were being correctly identified as churnin
 
 #### Tested More Models
 - [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_LogReg.ipynb)
