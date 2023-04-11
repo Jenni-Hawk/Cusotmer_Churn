@@ -22,7 +22,7 @@ Classification modeling project to predict churn
 1. Created a model without oversampling
 2. Created model with oversampling
     - Class imbalance just on edge of potentially being problematic. Negative class represents 72% of the data. Typically problematic at 80%
-    - Addressed Class Imbalance with Oversampling to gain experience with the process.
+    - Addressed Class Imbalance with oversampling using imblearn to gain experience with the process.
 3. Compared the Key Metrics for each model: ROC AUC, Recall
 4. Reviwed Confusion matrix for each model. 
     - With oversampling recall score greatly improved 
