@@ -17,7 +17,7 @@ Classification modeling project to predict churn
 
 # Solution Path
 #### Which metric should be used to optimize the model?
-Recall: It's better for the business to cast the net wider and capture more potential churn customers versus precision and miss potential churn customers.
+Recall: It's better for the business to cast the net wider and capture more churn customers versus using other metrics that will miss potential churn customers.
 
 #### 1. Clean, Expore + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
