@@ -20,8 +20,8 @@ Classification modeling project to predict churn
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
 - [Used Logistic Regression to explore the data and create benchmarks](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
     - Created model without oversampling
-2. Created model with oversampling
-    - Class imbalance just on edge of potentially being problematic. Negative class represents 73% of the data. Typically problematic at 80%
+    - Created model with oversampling
+        -  Class imbalance just on edge of potentially being problematic. Negative class represents 73% of the data. Typically problematic at 80%
     - Addressed Class Imbalance with oversampling using imblearn to gain experience with the process.
 3. [Compared the Key Metrics for each model: ROC AUC, Recall](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/LogisticReg_Oversamp_vs_NoOversamp.pdf)
     - Oversampling greatly increased recall score (more customers were being correctly identified as cancelling their subscription)
