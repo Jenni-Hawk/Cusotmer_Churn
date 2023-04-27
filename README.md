@@ -16,6 +16,9 @@ Classification modeling project to predict churn
 - [Kaggle dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 
 # Solution Path
+#### Which metric should be used to optimize the model?
+Recall: It's better for the business to cast the net wider and capture more potential churn customers versus precision and miss potential churn customers.
+
 #### 1. Clean, Expore + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
 - [Used Logistic Regression to explore the data and create benchmarks](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
