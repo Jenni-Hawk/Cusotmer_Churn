@@ -16,7 +16,7 @@ Classification modeling project to predict churn
 - [Kaggle dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 
 # Solution Path
-#### Clean, Expore + Benchmark
+#### 1. Clean, Expore + Benchmark
 - [Cleaned data and Get Dummies](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/01_Clean_GetDummies.ipynb)
 - [Used Logistic Regression to explore the data and create benchmarks](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/03_Logistic_Reg_Explore.ipynb)
     - Created model without oversampling
@@ -27,18 +27,18 @@ Classification modeling project to predict churn
     - Oversampling greatly increased recall score (more customers were being correctly identified as cancelling their subscription)
     - ROC AUC Scores were within excellent and acceptable discrimination levels
 
-#### Tested More Models
+#### 2. Tested More Models
 Explored tree based models to determine how they would perform with a focus on recall
 - [Decision Trees, Random Forest and XGBoost](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_XGBoost.ipynb)
 
-#### Tuned Hyperparamters
+#### 3. Tuned Hyperparamters
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
 
-#### Determine Winner
+#### 4. Determined Winner
 - Best performing model
 - Most important features
 
-#### Identify Further Optimizations
+#### 5. Identify Further Optimizations
 - Identify further tuning opportunities
 
 # Findings
