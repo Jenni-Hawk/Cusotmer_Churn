@@ -31,7 +31,7 @@ Recall: It's better for the business to cast the net wider and capture more chur
       -   AUC Scores were within excellent and acceptable discrimination levels
 
 #### 2. Tested More Models
-[Explored tree based models to determine performance](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_XGBoost.ipynb)
+[Created Decision Tree, Random Forest, XGBoost Models](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_XGBoost.ipynb)
 - Looked at how oversampling versus no oversampling impacted performance on AUC and Recall scores. 
 - Not surprisingly oversampling improved not only ROC AUC but also greatly improved Recall in most models.
 #### 3. Tuned Hyperparamters
