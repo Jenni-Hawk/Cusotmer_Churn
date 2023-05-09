@@ -32,7 +32,7 @@ Recall: It's better for the business to cast the net wider and capture more chur
 
 #### 2. Tested More Models
 [Explored tree based models to determine performance](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/04_Tree_vs_Forest_vs_XGBoost.ipynb)
-- Looked at how oversampling versus no oversampling impacted performance on ROC AUC and Recall scores. 
+- Looked at how oversampling versus no oversampling impacted performance on AUC and Recall scores. 
 - Not surprisingly oversampling improved not only ROC AUC but also greatly improved Recall in most models.
 #### 3. Tuned Hyperparamters
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
