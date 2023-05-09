@@ -26,7 +26,7 @@ Recall: It's better for the business to cast the net wider and capture more chur
     - Created model with oversampling
         -  Class imbalance just on edge of potentially being problematic. Negative class represents 73% of the data. Typically problematic at 80%
         - Addressed Class Imbalance with oversampling using imblearn to gain experience with the process.
-    - [Compared Key Metrics for each model: AUC, Recall](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/LogisticReg_Oversamp_vs_NoOversamp.pdf)
+    - [Compared Key Metrics for each model: AUC, Recall](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/Oversampling_Impact.pdf))
         - Oversampling greatly increased recall score (more customers were being correctly identified as cancelling their subscription)
       -   AUC Scores for logreg were within excellent and acceptable discrimination levels
 
