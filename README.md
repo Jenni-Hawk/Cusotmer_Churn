@@ -37,12 +37,7 @@ Recall: It's better for the business to cast the net wider and capture more chur
 #### 3. Tuned Hyperparamters
 - [Tune hyperparameters using Gridsearch](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/05_Tuning_GridSearch.ipynb)
 
-#### 4. Determined Winner
-- Best performing model
-- Most important features
-
-#### 5. Identify Further Optimizations
-- Identify further tuning opportunities
+#### 4. Determined Best Performers + Further Optimizations
 
 ## Findings
 Check out the [presentation](https://github.com/Jenni-Hawk/Customer_Churn/blob/main/CustomerChurn_Presentation.pdf)
